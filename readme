@@ -1,0 +1,6 @@
+echo "# ms1" >>README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://gitHub.com/ms-111/ms1.git
+git push -u origin master
